@@ -4,3 +4,4 @@ Features :
 1. Syntax Highlighting
 2. Saving and Loading files
 3. Searching a text in a file
+4. Status Bar

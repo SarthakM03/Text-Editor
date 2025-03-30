@@ -1,5 +1,6 @@
 # Text-Editor
 This project is about Building a Command-line based Text-editor like Vim that runs on terminal.
+
 Features :
 1. Status Bar
 2. Reading and Writing into the files
